@@ -36,7 +36,7 @@ EzClicker is a simple and customizable auto-clicker application for Windows, des
 
 # Technologies Used:
 
-Python 3.x
+Python 3.12.10
 
 PyQt5 (for GUI)
 
