@@ -46,4 +46,4 @@ pynput (for keyboard and mouse input handling)
 
 # License:
 
-This project is open-source and distributed under the MIT License. See the LICENSE file for more information.
+This project is open-source, if you use my code to improve the clicker or other projects give me the credits ^^.
