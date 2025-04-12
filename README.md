@@ -47,3 +47,7 @@ pynput (for keyboard and mouse input handling)
 # License:
 
 This project is open-source, if you use my code to improve the clicker or other projects give me the credits ^^.
+
+# Contacts:
+
+https://www.instagram.com/costro.lmfao/
