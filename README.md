@@ -16,6 +16,8 @@ EzClicker is a simple and customizable auto-clicker application for Windows, des
 
 • Overlay Mode: The app provides a useful overlay to display its status and CPS count even when minimized or in the background.
 
+![Screenshot 2025-04-12 182129](https://github.com/user-attachments/assets/ede11f3c-38e0-49f8-af00-25f209768f5c)
+
 # Installation:
 
 • Download the latest release of EzClicker from the Releases section.
