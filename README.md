@@ -52,6 +52,6 @@ This project is open-source, if you use my code to improve the clicker or other 
 
 • Instagram: https://www.instagram.com/costro.lmfao/
 
-• Discord: @luxbran 
+• Discord: luxbran 
 
 • Telegram: @luxxbran
