@@ -50,8 +50,6 @@ This project is open-source, if you use my code to improve the clicker or other 
 
 # Contacts:
 
-• Instagram: https://www.instagram.com/costro.lmfao/
-
 • Discord: luxbran 
 
 • Telegram: @luxxbran
